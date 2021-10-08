@@ -1,6 +1,12 @@
-Hi there 👋
-🔭 I’m currently working on multiple Freelance projects
+Hi everybody!, I'm Juan Suarez👋👋
+
 🌱 I’m currently learning Mobile App Development
-📚 I'm currently studying Electronics and Communications Engineering
-📫 How to reach me: E-mail , Twitter , LinkedIn ,
-Github stats
+📚 I'm currently studying Telematics engineering 
+📫 How to reach me: 
+
+<ul>
+<li>Email: juansebastiansuarez28@gmail.com</li>
+<li>Instagram: </li>
+<li>LinkedIn: </li>
+</ul>
+
