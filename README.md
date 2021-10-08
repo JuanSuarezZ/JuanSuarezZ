@@ -1,7 +1,9 @@
 Hi everybody!, I'm Juan Suarez👋👋
 
-🌱 I’m currently learning Mobile App Development
-📚 I'm currently studying Telematics engineering 
+🌱 I’m currently learning Mobile App Development,
+
+📚 I'm currently studying Telematics engineering,
+
 📫 How to reach me:
 
 - [E-mail](mailto://juansebastiansuarez28@gmail.com)
