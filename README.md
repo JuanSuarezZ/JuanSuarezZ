@@ -5,8 +5,8 @@ Hi everybody!, I'm Juan Suarez👋👋
 📫 How to reach me: 
 
 <ul>
-<li>Email: juansebastiansuarez28@gmail.com</li>
-<li>Instagram: </li>
-<li>LinkedIn: </li>
+<li>📧Email: juansebastiansuarez28@gmail.com</li>
+<li>🤳Instagram: </li>
+<li>🔗LinkedIn: </li>
 </ul>
 
