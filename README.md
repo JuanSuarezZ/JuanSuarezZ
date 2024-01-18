@@ -8,6 +8,6 @@
 
 - [E-mail](mailto://juansebastiansuarez28@gmail.com)
 - [Instagram](https://www.instagram.com/juanse_dev/)
-- [LinkedIn](https://www.linkedin.com/in/juan-suarez-contreras-8a4793222/)
+- [LinkedIn](https://www.linkedin.com/in/juanse-suarez/)
 
 
